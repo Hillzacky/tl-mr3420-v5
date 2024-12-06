@@ -3,7 +3,7 @@ Router openwrt mod collection
 ```
 Mediatek MT7628AN
 mipsel_24kc
-ramips/mt7628
+ramips/mt7628/mt76x8
 ```
 ## Raw
 ```
@@ -19,6 +19,9 @@ http://www.aturnofthenut.com/builds/GoldenOrb/TP-Link-MR3420v5-GO2023-09-01.zip
 ## Gargoyle
 ```
 https://lantisproject.com/downloads/gargoylebuilds
+
+https://lantisproject.com/storage/gargoylebuilds/1.15.x_20241113/ramips/gargoyle_1.15.x-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
+https://lantisproject.com/storage/gargoylebuilds/1.15.x_20241113/ramips/gargoyle_1.15.x-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
 ```
 ## Experimental
 ```
