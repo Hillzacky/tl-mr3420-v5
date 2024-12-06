@@ -46,7 +46,7 @@ https://downloads.x-wrt.com/rom/x-wrt-24.04-b202411262136-ramips-mt76x8-tplink_t
 https://downloads.x-wrt.com/rom/x-wrt-24.04-b202411262136-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
 ```
 SSID : X-WRT_XXXX， Password ：88888888\
-Host ：http://192.168.15.1/\
+Host ：http://192.168.15.1/ \
 user : admin\
 pass : admin\
 SSH : root@192.168.15.1 port:22 pass:admin
