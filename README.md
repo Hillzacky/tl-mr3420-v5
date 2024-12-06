@@ -1,5 +1,5 @@
-# tl-mr3420-v5
-openwrt
+# TL-MR3420 v5
+Router openwrt mod collection
 ```
 Mediatek MT7628AN
 mipsel_24kc
@@ -15,6 +15,10 @@ https://archive.openwrt.org/chaos_calmer/15.05.1/ramips/mt7628
 http://www.aturnofthenut.com/builds/GoldenOrb
 
 http://www.aturnofthenut.com/builds/GoldenOrb/TP-Link-MR3420v5-GO2023-09-01.zip
+```
+## Gargoyle
+```
+https://lantisproject.com/downloads/gargoylebuilds
 ```
 ## Experimental
 ```
