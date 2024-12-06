@@ -80,6 +80,7 @@ https://github.com/aimacintyre/gargoyle/releases/tag/ramips-mt76x8-20220925
 ```
 ## Extra Opkg
 ```
+http://rsync.nl.gentoo.org/pub/software/lede/releases/24.10.0-rc2/packages/mipsel_24kc/
 http://dl.weimarnetz.de/freifunk/firmware/openwrt-base/23.05.4/ramips/mt76x8/packages/packages/mipsel_24kc/
 
 https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/base
