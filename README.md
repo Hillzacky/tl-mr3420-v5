@@ -49,7 +49,7 @@ SSID : X-WRT_XXXX， Password ：88888888
 Host ：http://192.168.15.1/
 user : admin
 pass : admin
-SSH : root@192.168.15.1 pass:admin
+SSH : root@192.168.15.1 port:22 pass:admin
 ## Experimental
 ```
 https://github.com/aimacintyre/gargoyle/releases/tag/ramips-mt76x8-20220925
