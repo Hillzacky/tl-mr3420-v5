@@ -54,3 +54,10 @@ https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/routing
 
 https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/telephony
 ```
+## TFTP Server
+```
+https://www.ofmodemsandmen.com/download/tftpd32.zip
+
+https://www.ofmodemsandmen.com/download/pxesrv.zip
+```
+Cara Flash : Rename Firmware ke tp_recovery.bin, Ganti IP ke static 192.168.0.225, Buka tftp -> sesuaikan folder & server, cabut charger router tplink, tekan & tahan tombol power & reset kemudian masukkan charger -> tahan tombol selama 6 detik hingga logo kunci nyala, kemudian lepaskan tombol & tunggu proses. selesai.
