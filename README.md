@@ -24,3 +24,15 @@ https://lantisproject.com/downloads/gargoylebuilds
 ```
 https://github.com/aimacintyre/gargoyle/releases/tag/ramips-mt76x8-20220925
 ```
+## Extra Opkg
+```
+https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/base
+
+https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/luci
+
+https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/packages
+
+https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/routing
+
+https://dl.eko.one.pl/gargoyle-pl/1.14/packages/mipsel_24kc/telephony
+```
