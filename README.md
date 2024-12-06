@@ -58,6 +58,12 @@ https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/imm
 https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/immortalwrt-24.10.0-rc1-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
 https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/immortalwrt-24.10.0-rc1-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
 ```
+## Generate Firmware
+```
+https://openwrt.ai
+
+https://dl.openwrt.ai/firmware/ramips-mt76x8
+```
 ## Experimental
 ```
 https://github.com/aimacintyre/gargoyle/releases/tag/ramips-mt76x8-20220925
