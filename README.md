@@ -58,7 +58,17 @@ https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/imm
 https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/immortalwrt-24.10.0-rc1-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
 https://downloads.immortalwrt.org/releases/24.10.0-rc1/targets/ramips/mt76x8/immortalwrt-24.10.0-rc1-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
 ```
-## Generate Firmware
+## ddWrt
+```
+https://mirror.math.princeton.edu/pub/ddwrt
+```
+## LibreMesh
+```
+https://repo.libremesh.org/current/targets/ramips/mt76x8/libremesh-2020.4-ow19-default-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
+
+https://repo.libremesh.org/current/targets/ramips/mt76x8/libremesh-2020.4-ow19-default-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
+```
+## Generate Firmware Builder
 ```
 https://openwrt.ai
 
