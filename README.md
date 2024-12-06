@@ -17,6 +17,8 @@ https://archive.openwrt.org/chaos_calmer/15.05.1/ramips/mt7628
 ```
 https://static.tp-link.com/2018/201808/20180817/TL-MR3420(EU)_V5_180712.zip
 
+https://static.tp-link.com/2018/201801/20180117/TL-MR3420(EU)_v5_170908.zip
+
 https://emulator.tp-link.com/MR3420_V5-2-22/index.htm
 ```
 ## OpenWrt
